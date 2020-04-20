@@ -61,3 +61,5 @@ Run Project in the Emulator:
 5. Then click on the run icon for run the project in the device/emulator.
 
 Then the project will successfully run in the Emulator/device.
+
+For any query, please contact Firoz Ahmed Talukder, Sr.Software Engineer, firoz.ahmed@grameen-intel.com, firoz.ahmed@tsi.com.bd, Technology for social impact.
