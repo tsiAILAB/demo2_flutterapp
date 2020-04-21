@@ -2,6 +2,6 @@
 
 Let's start with Flutter Framework with Demo App
 
-FlutterSetup.docx(Flutter Environment Setup and Complete Project Guide Line)
+FlutterProjectSetup.docx(Flutter Environment Setup and Complete Project Guide Line)
 
 For any query, please contact Firoz Ahmed Talukder, Sr.Software Engineer, firoz.ahmed@grameen-intel.com, firoz.ahmed@tsi.com.bd, Technology for social impact.
